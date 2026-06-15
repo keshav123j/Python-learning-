@@ -1,0 +1,10 @@
+#To get name of 7 fruits and get them in a list 
+a = input("ENTER FRUITS NAME 1:")
+b = input("ENTER FRUITS NAME 2:")
+c = input("ENTER FRUITS NAME 3:")
+d = input("ENTER FRUITS NAME 4:")
+e = input("ENTER FRUITS NAME 5:")
+f = input("ENTER FRUITS NAME 6:")
+g = input("ENTER FRUITS NAME 7:")
+h = (a,b,c,d,e,f,g)
+print(h)
